@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="612.0" prefWidth="545.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="613.0" fitWidth="499.0" layoutX="23.0" layoutY="57.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Files/image/info/formuls.PNG" />
+         </image>
+      </ImageView>
+      <Label layoutX="133.0" layoutY="21.0" text="Параметры для законов распределения:">
+         <font>
+            <Font name="System Italic" size="15.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

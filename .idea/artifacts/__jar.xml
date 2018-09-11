@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Дипломный проект:jar">
+    <output-path />
+    <root id="archive" name="Дипломный проект.jar">
+      <element id="module-output" name="GQW-bachelor_Reliability" />
+    </root>
+  </artifact>
+</component>
